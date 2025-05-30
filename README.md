@@ -22,8 +22,9 @@ A Python-based Image Editor with a graphical user interface built using Tkinter,
 - **OpenCV** – Image processing
 
   📂 File Structure
-  <pre>
+  
 ImageEditor-GUI-Python/
+<pre>
 ├── image_editor.py         # Main GUI and logic
 ├── sample_images/          # Example images to try
 ├── README.md               # Project documentation
@@ -33,3 +34,6 @@ ImageEditor-GUI-Python/
 🙌 Acknowledgements
 Grateful to Maniyar Khaja Mohinuddin and byteXL for mentorship and support during my summer training journey.
 
+Feedback generation for teachers
+
+🤝 Contributing Feel free to open issues or submit pull requests if you’d like to help improve this project! 📬 Contact Created by Nireeha Padala 📧 [nireehap@gmail.com] 🔗 [www.linkedin.com/in/nireeha-padala-6a71ab2a0] | [https://github.com/Nireehapadala]
